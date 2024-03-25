@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Python code related files to ignore
+.venv
+.env
+__pycache__
+models

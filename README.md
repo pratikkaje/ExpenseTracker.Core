@@ -1,1 +1,1 @@
-# ExpenseTracker.Core
+# Expense Tracker
